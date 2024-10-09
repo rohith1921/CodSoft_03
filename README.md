@@ -18,9 +18,9 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. It pe
 # How to Run
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/rohith1921/CodSoft_03.git
+       git clone https://github.com/rohith1921/CodSoft_03.git
 
-2. Open the index.html file in your preferred browser to start using the calculator.
+3. Open the index.html file in your preferred browser to start using the calculator.
 
 # How it Works 
 
@@ -50,5 +50,3 @@ If you'd like to improve this project, feel free to submit a pull request or rep
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
